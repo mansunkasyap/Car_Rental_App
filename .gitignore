@@ -1,0 +1,6 @@
+# Car Renatal App ignore file
+#Maven Project
+#ignore_s
+.settings/*
+.classpath
+.project
