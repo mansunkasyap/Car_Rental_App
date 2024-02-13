@@ -1,2 +1,2 @@
-#CAR RENTAL APP
-#TECHNOLOGY USED JAVA, JDBC, MYSQL, JAVASCRIPT, HTML, CSS
+<h1>Car Rental App</h1>
+<div>Technology Used</div>
